@@ -78,4 +78,6 @@ We will review this:
 
 ## Team members:
 - Jacob Hefley
+- Tony Hoyev
+- Murtaza Akbari
 
